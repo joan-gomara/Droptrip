@@ -4,7 +4,8 @@ flat style.
 
 ## Changelog:
 
-- Animacions a les accions del personatge
-- Audio al realitzar cada acció
-- Millores de gestió de l'energia
-- Millores gràfiques
+- Animacions a les accions del personatge.
+- Audio al realitzar cada acció.
+- Gestió més eficient de l'energia.
+- Millores gràfiques.
+- Millores en la interfície d'usuari.
