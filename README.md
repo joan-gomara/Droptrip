@@ -1,6 +1,5 @@
 # Droplet journey v0.41
-A game for the final degree project at the Open University of Catalonia (UOC). \
-Flat style.
+A game for the final degree project at the Open University of Catalonia (UOC). 
 
 ## Changelog
 - Creació de menús.
