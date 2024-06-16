@@ -1,6 +1,6 @@
 # Droptrip v0.83
-A game for the final degree project at the Open University of Catalonia (UOC). \
-flat style.
+
+A game for the final degree project at the Open University of Catalonia (UOC). 
 
 ## Changelog
 
