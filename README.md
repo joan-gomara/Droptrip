@@ -3,7 +3,7 @@ A game for the final degree project at the Open University of Catalonia (UOC). \
 flat style.
 
 
-# Changelog
+## Changelog
 
 - Afegits tres nivells a banda del tutorial
 - Gestió del nivell actual i el nivell màxim desbloquejat
