@@ -5,5 +5,6 @@ flat style.
 ## Changelog:
 
 - Rebranding
-- Menú de navegació
+- Estils del menú de navegació
 - Indicacions del tutorial
+- Animació inicial
