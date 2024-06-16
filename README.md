@@ -1,12 +1,8 @@
-# droplet-journey
+# Droptrip v0.71
 A game for the final degree project at the Open University of Catalonia (UOC). \
 flat style.
 
+Changelog:
 
-# Version 0.41:
-
-Link to the game(Win/Mac): \
-https://we.tl/t-5zsDofI1pP 
-
-Link to full game file (Unity 2021.3.36f1): \
-https://we.tl/t-asUo8QF0uH
+-Menú de navegació
+-Indicacions del tutorial
