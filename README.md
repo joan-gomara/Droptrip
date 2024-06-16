@@ -4,5 +4,6 @@ flat style.
 
 Changelog:
 
+-Rebranding
 -Menú de navegació
 -Indicacions del tutorial
